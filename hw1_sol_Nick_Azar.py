@@ -1,3 +1,5 @@
+# Written by Nick Azar
+
 # Problem #1
 # use .replace to replace and return the word
 def replace(word):
